@@ -21,3 +21,5 @@ class Shoe
      x
  end
 end
+
+brand
