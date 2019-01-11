@@ -14,6 +14,6 @@ class Book
   def genre=(genre)
     @genre = gerne
     GENRES << genre
-    GENRES.uniqß
+    GENRES.uniq
   end
 end
