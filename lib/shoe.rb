@@ -16,11 +16,7 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
 
-  def brand
-   @brand.each do |x|
-     x
- end
- end
-end
+  
+
 
 brand
