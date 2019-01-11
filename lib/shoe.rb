@@ -20,6 +20,7 @@ class Shoe
    @brand.each do |x|
      x
  end
+ end
 end
 
 brand
