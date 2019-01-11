@@ -11,7 +11,7 @@ class Book
     puts "Flipping the page...wow, you read fast!"
   end
   
-  def genre
+  def genre=(genre)
     @genre = gerne
     GENRES << genre
     GENRES.uniq
